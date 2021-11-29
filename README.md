@@ -1,4 +1,4 @@
-# Backend-react-pokemon
+# Frontend-react-pokemon
 
 <!-- Install  -->
 
